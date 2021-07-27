@@ -1,1 +1,7 @@
 Test Git Quick Start Demo
+
+Needed to add few more lines to this file, because this is 
+serious business
+Hope every thing works out
+Will see you then
+Have a nice day and saty focused
